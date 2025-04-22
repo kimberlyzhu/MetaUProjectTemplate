@@ -13,4 +13,4 @@ Intern Peers: __intern_peers_
 ## Links
 **Project design**: [design](<link to design doc>)
 
-**Project Plan doc**: [doc](<link to project plan>)
+**Project Plan doc**: [doc](https://docs.google.com/document/d/1jUlPYhnKjjHbRNjVnr-RFTWEyAm_HhHe8Sgtepokj_A/edit?tab=t.0#heading=h.6b6nbvhbbspp)
