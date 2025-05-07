@@ -2,7 +2,7 @@
 This is a repo for my Meta U project. 
 
 ## Overview
-Here I will write a brief description of what my project does
+Here I will write a brief description of what my project does. My project is really impactful.
 
 ## Roles
 Intern: _intern_name_
